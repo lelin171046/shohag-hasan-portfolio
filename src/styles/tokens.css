@@ -1,0 +1,24 @@
+:root {
+  --color-bg: #080a08;
+  --color-surface: #151a15;
+  --color-surface-alt: #151a15;
+  --color-sidebar: #151a15;
+  --color-ink: #f5f5f5;
+  --color-ink-soft: #f5f5f5;
+  --color-muted: #a8b0a6;
+  --color-line: rgba(245, 245, 245, 0.13);
+  --color-accent: #b6ff3b;
+  --color-accent-deep: #d7ff91;
+  --color-accent-pale: rgba(182, 255, 59, 0.12);
+  --color-on-accent: #080a08;
+  --color-white: #f5f5f5;
+
+  --sidebar-width: clamp(260px, 19.2vw, 370px);
+  --header-height: 68px;
+  --content-max: 1180px;
+  --radius-sm: 5px;
+  --radius-md: 10px;
+  --shadow-card: 0 14px 34px rgba(0, 0, 0, 0.35);
+  --shadow-soft: 0 10px 26px rgba(0, 0, 0, 0.28);
+  --transition: 180ms ease;
+}
